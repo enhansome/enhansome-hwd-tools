@@ -1,79 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Nic30/hdlConverter - Python System-Verilog/VHDL Parser\nchristiklein/simpy - discrite event based simulation framework\nchipmuenk/pyFDA - A python tool to design time discrete filters\nefabless/openlane - Automated RTL to GDS flow based on openRoad, Yosys and more...\nahmed-agiza/EDAViewer - EDAV is a cloud-based open-source viewer for electronic design automation (EDA) design files (LEF, DEF) verilator/rtlmeter - RTLMeter benchmark suite",
-      "items": [],
-      "title": "Semi Custom Design/ FPGAs"
-    },
-    {
-      "description": "cornell-brg/pymtl3 - hardware modeling framework\nmortbopet/VSRTL - Visual Simulation of Register Transfer Logic",
-      "items": [],
-      "title": "Modelling"
-    },
-    {
-      "description": "freechipsproject/Chisel - Hardware Description Language embedded in Scala developed at UC Berkeley\nphanrahan/Magma - A Hardware Description Language embedded in Python\nllvm/circt - Intermediate representation for rtl (used by Chisel)\nmyhdl/MyHDL - Python as a Hardware Description and Verification Language\nclash-lang/clash-compiler - A Hardware Description Language written and inspired by Haskell\nA much more detailed and specific list for hardware description languages can be found at drom/awesome-hdl.",
-      "items": [],
-      "title": "Hardware Description Languages"
-    },
-    {
-      "description": "gtkwave - GTK based waveform viewer\nwavedrom/wavedrom - Timing Diagrams in Java Script",
-      "items": [],
-      "title": "Wave Viewers"
-    },
-    {
-      "description": "steveicarus/iverilog - Icarus Verilog Simulator\nghdl/ghdl - VHDL Simulator",
-      "items": [],
-      "title": "Simulation"
-    },
-    {
-      "description": "YosysHQ/yosys - Synthesis Flow",
-      "items": [],
-      "title": "Synthesis"
-    },
-    {
-      "description": "abk-openroad/OpenSTA - static timing analysis\nOpenTimer/OpenTimer - timing analysis tool for vlsi systems",
-      "items": [],
-      "title": "Timing Analysis"
-    },
-    {
-      "description": "YosysHQ/SymbiYosys - formal verification flow and tool\ncocotb/cocotb - Creating Verilog/VHDL testbenches with python",
-      "items": [],
-      "title": "Verification"
-    },
-    {
-      "description": "leviathanch/libresiliconprocess - A 1um open process specification\ngoogle/skywater-pdk - Open Source Process SkyWater 130nm",
-      "items": [],
-      "title": "Open Source PDK"
-    },
-    {
-      "description": "heitzmann/gdsstk - Gdstk (GDSII Tool Kit) is a C++/Python library for creation and manipulation of GDSII and OASIS files.\nunihd-cag/skillbridge - A seamless python to Cadence Virtuoso Skill interface\nelectronics-and-drives/SPAM - SPAM is a package management system for Cadence SKILL\nelectronics-and-drives/ml2tikz - Virtuoso layout to tikzpicture\nMatthewLoveQUB/SKILL_Tools - Skill++ Tools including a test framework\nEDDRSoftware/oaFileParser - oaFile Parser\nscikit-rf/scikit-rf - RF and Microwave Design in scikit\nmph-/lcapy - Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.\nYosysHQ/PADRING - A padring generator for asics\nDegateCommunity/Degate - Tool for VLSI reverse engineering\ncap1tan/wafermap - A python package to plot maps of semiconductor wafers\ntub-msc/ordec - Custom IC Design Platform",
-      "items": [],
-      "title": "Full Custom Design"
-    },
-    {
-      "description": "ucb-art/BAG_framework - Berkeley Analog Generator\nVLSIDA/OpenRAM - open-source SRAM Compiler\nKLayout/klayout - scriptable Layout Viewer and Editor",
-      "items": [],
-      "title": "Layout Generation/ Manipulation"
-    },
-    {
-      "description": "ngspice - Spice Simulator\nFabriceSalvaire/pyspice - Simulating and creating Spice Circuits with Python",
-      "items": [],
-      "title": "Simulation"
-    },
-    {
-      "description": "Isotel/mixedsim - A mixed signal simulation approach using ngspice and yosys providing a library mapping to spice",
-      "items": [],
-      "title": "Mixed Signal Design"
-    },
-    {
-      "description": "SchemDraw - producing circuit diagrams with python",
-      "items": [],
-      "title": "Documentation"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T04:55:50.331Z",
+    "last_updated": "2026-08-19T12:35:45.145Z",
     "original_repository": "TM90/awesome-hwd-tools",
+    "original_repository_id": 158928501,
     "original_repository_sha": "2f111b92ba5fb68578aaefa1a876ba03fb5dd9b6",
     "enhanced_repository": "enhansome/enhansome-hwd-tools",
     "enhanced_repository_description": null,
