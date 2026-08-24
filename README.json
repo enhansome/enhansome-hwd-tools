@@ -1,7 +1,666 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "christiklein/simpy - discrite event based simulation framework",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nic30/hdlConverter",
+          "description": "Python System-Verilog/VHDL Parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62142405,
+            "language": "C++",
+            "last_commit": "2025-06-30T16:05:06Z",
+            "owner": "Nic30",
+            "repo": "hdlConvertor",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chipmuenk/pyFDA",
+          "description": "A python tool to design time discrete filters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24369605,
+            "language": "Python",
+            "last_commit": "2026-08-23T19:59:01Z",
+            "owner": "chipmuenk",
+            "repo": "pyfda",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "efabless/openlane",
+          "description": "Automated RTL to GDS flow based on openRoad, Yosys and more...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 381764162,
+            "language": "Python",
+            "last_commit": "2024-06-01T06:54:55Z",
+            "owner": "efabless",
+            "repo": "OpenLane",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ahmed-agiza/EDAViewer",
+          "description": "EDAV is a cloud-based open-source viewer for electronic design automation (EDA) design files (LEF, DEF) verilator/rtlmeter - RTLMeter benchmark suite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280260470,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T11:40:59Z",
+            "owner": "ahmed-agiza",
+            "repo": "EDAViewer",
+            "stars": 76
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cornell-brg/pymtl3",
+              "description": "hardware modeling framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82823931,
+                "language": "Python",
+                "last_commit": "2026-07-02T20:59:01Z",
+                "owner": "pymtl",
+                "repo": "pymtl3",
+                "stars": 464
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mortbopet/VSRTL",
+              "description": "Visual Simulation of Register Transfer Logic",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167980204,
+                "language": "C++",
+                "last_commit": "2026-08-17T14:07:22Z",
+                "owner": "mortbopet",
+                "repo": "VSRTL",
+                "stars": 115
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Modelling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "freechipsproject/Chisel",
+              "description": "Hardware Description Language embedded in Scala developed at UC Berkeley",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34695562,
+                "language": "Scala",
+                "last_commit": "2026-08-23T11:10:44Z",
+                "owner": "chipsalliance",
+                "repo": "chisel",
+                "stars": 4762
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phanrahan/Magma",
+              "description": "A Hardware Description Language embedded in Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84332281,
+                "language": "Python",
+                "last_commit": "2024-10-19T20:11:36Z",
+                "owner": "phanrahan",
+                "repo": "magma",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llvm/circt",
+              "description": "Intermediate representation for rtl (used by Chisel)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245072514,
+                "language": "C++",
+                "last_commit": "2026-08-24T07:18:10Z",
+                "owner": "llvm",
+                "repo": "circt",
+                "stars": 2226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "myhdl/MyHDL",
+              "description": "Python as a Hardware Description and Verification Language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30467971,
+                "language": "Python",
+                "last_commit": "2025-04-10T18:55:22Z",
+                "owner": "myhdl",
+                "repo": "myhdl",
+                "stars": 1126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clash-lang/clash-compiler",
+              "description": "A Hardware Description Language written and inspired by Haskell",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11172497,
+                "language": "Haskell",
+                "last_commit": "2026-08-24T14:29:18Z",
+                "owner": "clash-lang",
+                "repo": "clash-compiler",
+                "stars": 1606
+              }
+            }
+          ],
+          "description": "A much more detailed and specific list for hardware description languages can be found at drom/awesome-hdl.",
+          "node_type": "group",
+          "title": "Hardware Description Languages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wavedrom/wavedrom",
+              "description": "Timing Diagrams in Java Script",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19441646,
+                "language": "JavaScript",
+                "last_commit": "2026-07-08T23:45:28Z",
+                "owner": "wavedrom",
+                "repo": "wavedrom",
+                "stars": 3473
+              }
+            }
+          ],
+          "description": "gtkwave - GTK based waveform viewer",
+          "node_type": "group",
+          "title": "Wave Viewers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "steveicarus/iverilog",
+              "description": "Icarus Verilog Simulator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16267,
+                "language": "C++",
+                "last_commit": "2026-08-23T21:30:59Z",
+                "owner": "steveicarus",
+                "repo": "iverilog",
+                "stars": 3605
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ghdl/ghdl",
+              "description": "VHDL Simulator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46439446,
+                "language": "VHDL",
+                "last_commit": "2026-08-24T14:28:36Z",
+                "owner": "ghdl",
+                "repo": "ghdl",
+                "stars": 2867
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Simulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "YosysHQ/yosys",
+              "description": "Synthesis Flow",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7454197,
+                "language": "C++",
+                "last_commit": "2026-08-24T11:54:14Z",
+                "owner": "YosysHQ",
+                "repo": "yosys",
+                "stars": 4703
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Synthesis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "abk-openroad/OpenSTA",
+              "description": "static timing analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150762409,
+                "language": "Verilog",
+                "last_commit": "2026-08-19T04:17:13Z",
+                "owner": "The-OpenROAD-Project",
+                "repo": "OpenSTA",
+                "stars": 609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenTimer/OpenTimer",
+              "description": "timing analysis tool for vlsi systems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39079545,
+                "language": "Verilog",
+                "last_commit": "2025-12-26T05:39:10Z",
+                "owner": "OpenTimer",
+                "repo": "OpenTimer",
+                "stars": 713
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Timing Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "YosysHQ/SymbiYosys",
+              "description": "formal verification flow and tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79726807,
+                "language": "Python",
+                "last_commit": "2026-08-05T07:27:17Z",
+                "owner": "YosysHQ",
+                "repo": "sby",
+                "stars": 540
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cocotb/cocotb",
+              "description": "Creating Verilog/VHDL testbenches with python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10651005,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:21:33Z",
+                "owner": "cocotb",
+                "repo": "cocotb",
+                "stars": 2483
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Verification"
+        }
+      ],
+      "title": "Semi Custom Design/ FPGAs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "leviathanch/libresiliconprocess",
+          "description": "A 1um open process specification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114278295,
+            "language": "TeX",
+            "last_commit": "2019-08-19T23:33:48Z",
+            "owner": "leviathanch",
+            "repo": "libresiliconprocess",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google/skywater-pdk",
+          "description": "Open Source Process SkyWater 130nm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261898494,
+            "language": "Python",
+            "last_commit": "2026-07-21T22:02:44Z",
+            "owner": "google",
+            "repo": "skywater-pdk",
+            "stars": 3667
+          }
+        }
+      ],
+      "title": "Open Source PDK"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "heitzmann/gdsstk",
+          "description": "Gdstk (GDSII Tool Kit) is a C++/Python library for creation and manipulation of GDSII and OASIS files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 287123767,
+            "language": "C++",
+            "last_commit": "2026-07-24T23:06:04Z",
+            "owner": "heitzmann",
+            "repo": "gdstk",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unihd-cag/skillbridge",
+          "description": "A seamless python to Cadence Virtuoso Skill interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210600024,
+            "language": "Python",
+            "last_commit": "2026-03-23T14:32:46Z",
+            "owner": "unihd-cag",
+            "repo": "skillbridge",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electronics-and-drives/SPAM",
+          "description": "SPAM is a package management system for Cadence SKILL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181688720,
+            "language": null,
+            "last_commit": "2019-04-17T14:25:30Z",
+            "owner": "electronics-and-drives",
+            "repo": "SPAM",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electronics-and-drives/ml2tikz",
+          "description": "Virtuoso layout to tikzpicture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679128807,
+            "language": null,
+            "last_commit": "2023-08-14T18:14:07Z",
+            "owner": "electronics-and-drives",
+            "repo": "ml2tikz",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MatthewLoveQUB/SKILL_Tools",
+          "description": "Skill++ Tools including a test framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97092632,
+            "language": "Common Lisp",
+            "last_commit": "2020-11-06T12:21:20Z",
+            "owner": "MatthewLoveQUB",
+            "repo": "SKILL_Tools",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EDDRSoftware/oaFileParser",
+          "description": "oaFile Parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93663476,
+            "language": "C++",
+            "last_commit": "2017-06-24T19:50:41Z",
+            "owner": "EDDRSoftware",
+            "repo": "oaFileParser",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scikit-rf/scikit-rf",
+          "description": "RF and Microwave Design in scikit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3218028,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:38:59Z",
+            "owner": "scikit-rf",
+            "repo": "scikit-rf",
+            "stars": 926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mph-/lcapy",
+          "description": "Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19219468,
+            "language": "Python",
+            "last_commit": "2026-08-16T07:21:08Z",
+            "owner": "mph-",
+            "repo": "lcapy",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YosysHQ/PADRING",
+          "description": "A padring generator for asics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182258661,
+            "language": "C++",
+            "last_commit": "2023-05-17T15:44:06Z",
+            "owner": "YosysHQ",
+            "repo": "padring",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DegateCommunity/Degate",
+          "description": "Tool for VLSI reverse engineering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280168101,
+            "language": "C++",
+            "last_commit": "2024-11-25T12:40:22Z",
+            "owner": "DegateCommunity",
+            "repo": "Degate",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cap1tan/wafermap",
+          "description": "A python package to plot maps of semiconductor wafers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 420481288,
+            "language": "Python",
+            "last_commit": "2025-12-08T16:27:52Z",
+            "owner": "cap1tan",
+            "repo": "wafermap",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tub-msc/ordec",
+          "description": "Custom IC Design Platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 994840868,
+            "language": "Python",
+            "last_commit": "2026-08-20T09:36:28Z",
+            "owner": "tub-msc",
+            "repo": "ordec",
+            "stars": 115
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ucb-art/BAG_framework",
+              "description": "Berkeley Analog Generator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193759066,
+                "language": "Python",
+                "last_commit": "2022-12-04T01:18:38Z",
+                "owner": "ucb-art",
+                "repo": "BAG_framework",
+                "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VLSIDA/OpenRAM",
+              "description": "open-source SRAM Compiler",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72662753,
+                "language": "Python",
+                "last_commit": "2026-08-16T17:01:32Z",
+                "owner": "VLSIDA",
+                "repo": "OpenRAM",
+                "stars": 1117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KLayout/klayout",
+              "description": "scriptable Layout Viewer and Editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81722454,
+                "language": "C++",
+                "last_commit": "2026-08-23T20:49:28Z",
+                "owner": "KLayout",
+                "repo": "klayout",
+                "stars": 1182
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Layout Generation/ Manipulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FabriceSalvaire/pyspice",
+              "description": "Simulating and creating Spice Circuits with Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17987999,
+                "language": "Python",
+                "last_commit": "2024-08-13T15:11:18Z",
+                "owner": "PySpice-org",
+                "repo": "PySpice",
+                "stars": 862
+              }
+            }
+          ],
+          "description": "ngspice - Spice Simulator",
+          "node_type": "group",
+          "title": "Simulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Isotel/mixedsim",
+              "description": "A mixed signal simulation approach using ngspice and yosys providing a library mapping to spice",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85698427,
+                "language": "Python",
+                "last_commit": "2024-12-18T17:41:50Z",
+                "owner": "Isotel",
+                "repo": "mixedsim",
+                "stars": 91
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mixed Signal Design"
+        }
+      ],
+      "title": "Full Custom Design"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T05:05:57.109Z",
+    "last_updated": "2026-08-24T14:40:35.161Z",
     "original_repository": "TM90/awesome-hwd-tools",
     "original_repository_id": 158928501,
     "original_repository_sha": "2f111b92ba5fb68578aaefa1a876ba03fb5dd9b6",
