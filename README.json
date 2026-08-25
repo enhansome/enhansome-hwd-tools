@@ -27,7 +27,7 @@
             "archived": false,
             "id": 24369605,
             "language": "Python",
-            "last_commit": "2026-08-23T19:59:01Z",
+            "last_commit": "2026-08-24T19:55:32Z",
             "owner": "chipmuenk",
             "repo": "pyfda",
             "stars": 730
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-23T11:10:44Z",
                 "owner": "chipsalliance",
                 "repo": "chisel",
-                "stars": 4762
+                "stars": 4763
               }
             },
             {
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 245072514,
                 "language": "C++",
-                "last_commit": "2026-08-24T07:18:10Z",
+                "last_commit": "2026-08-25T04:02:36Z",
                 "owner": "llvm",
                 "repo": "circt",
                 "stars": 2226
@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 11172497,
                 "language": "Haskell",
-                "last_commit": "2026-08-24T14:29:18Z",
+                "last_commit": "2026-08-24T18:41:31Z",
                 "owner": "clash-lang",
                 "repo": "clash-compiler",
                 "stars": 1606
@@ -218,7 +218,7 @@
                 "last_commit": "2026-08-23T21:30:59Z",
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3605
+                "stars": 3606
               }
             },
             {
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 46439446,
                 "language": "VHDL",
-                "last_commit": "2026-08-24T14:28:36Z",
+                "last_commit": "2026-08-24T19:42:48Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
                 "stars": 2867
@@ -252,10 +252,10 @@
                 "archived": false,
                 "id": 7454197,
                 "language": "C++",
-                "last_commit": "2026-08-24T11:54:14Z",
+                "last_commit": "2026-08-24T15:43:55Z",
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4703
+                "stars": 4705
               }
             }
           ],
@@ -314,7 +314,7 @@
                 "last_commit": "2026-08-05T07:27:17Z",
                 "owner": "YosysHQ",
                 "repo": "sby",
-                "stars": 540
+                "stars": 541
               }
             },
             {
@@ -326,7 +326,7 @@
                 "archived": false,
                 "id": 10651005,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:21:33Z",
+                "last_commit": "2026-08-24T23:07:42Z",
                 "owner": "cocotb",
                 "repo": "cocotb",
                 "stars": 2483
@@ -553,7 +553,7 @@
             "archived": false,
             "id": 994840868,
             "language": "Python",
-            "last_commit": "2026-08-20T09:36:28Z",
+            "last_commit": "2026-08-24T20:43:44Z",
             "owner": "tub-msc",
             "repo": "ordec",
             "stars": 115
@@ -588,7 +588,7 @@
                 "last_commit": "2026-08-16T17:01:32Z",
                 "owner": "VLSIDA",
                 "repo": "OpenRAM",
-                "stars": 1117
+                "stars": 1118
               }
             },
             {
@@ -600,7 +600,7 @@
                 "archived": false,
                 "id": 81722454,
                 "language": "C++",
-                "last_commit": "2026-08-23T20:49:28Z",
+                "last_commit": "2026-08-24T17:14:41Z",
                 "owner": "KLayout",
                 "repo": "klayout",
                 "stars": 1182
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:40:35.161Z",
+    "last_updated": "2026-08-25T04:58:23.180Z",
     "original_repository": "TM90/awesome-hwd-tools",
     "original_repository_id": 158928501,
     "original_repository_sha": "2f111b92ba5fb68578aaefa1a876ba03fb5dd9b6",
