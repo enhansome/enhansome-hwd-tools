@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 46439446,
                 "language": "VHDL",
-                "last_commit": "2026-08-24T19:42:48Z",
+                "last_commit": "2026-08-25T06:17:32Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
                 "stars": 2867
@@ -370,7 +370,7 @@
             "last_commit": "2026-07-21T22:02:44Z",
             "owner": "google",
             "repo": "skywater-pdk",
-            "stars": 3667
+            "stars": 3666
           }
         }
       ],
@@ -478,7 +478,7 @@
             "archived": false,
             "id": 3218028,
             "language": "Python",
-            "last_commit": "2026-08-13T16:38:59Z",
+            "last_commit": "2026-08-25T05:55:47Z",
             "owner": "scikit-rf",
             "repo": "scikit-rf",
             "stars": 926
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:58:23.180Z",
+    "last_updated": "2026-08-25T06:37:12.581Z",
     "original_repository": "TM90/awesome-hwd-tools",
     "original_repository_id": 158928501,
     "original_repository_sha": "2f111b92ba5fb68578aaefa1a876ba03fb5dd9b6",

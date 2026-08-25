@@ -6,7 +6,7 @@ For electronic hardware tools without a focus on chip design see:
 
 <https://github.com/kitspace/awesome-electronics> ⭐ 8,062 | 🐛 30 | 📅 2026-01-05
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,907 | 🐛 15 | 🌐 Python | 📅 2026-08-25.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,924 | 🐛 15 | 🌐 Python | 📅 2026-08-25.
 
 ## Semi Custom Design/ FPGAs
 
@@ -51,7 +51,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [steveicarus/iverilog](https://github.com/steveicarus/iverilog) ⭐ 3,606 | 🐛 188 | 🌐 C++ | 📅 2026-08-23 - Icarus Verilog Simulator
 
-[ghdl/ghdl](https://github.com/ghdl/ghdl) ⭐ 2,867 | 🐛 348 | 🌐 VHDL | 📅 2026-08-24 - VHDL Simulator
+[ghdl/ghdl](https://github.com/ghdl/ghdl) ⭐ 2,867 | 🐛 345 | 🌐 VHDL | 📅 2026-08-25 - VHDL Simulator
 
 ### Synthesis
 
@@ -73,7 +73,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [leviathanch/libresiliconprocess](https://github.com/leviathanch/libresiliconprocess) ⭐ 31 | 🐛 0 | 🌐 TeX | 📅 2019-08-19 - A 1um open process specification
 
-[google/skywater-pdk](https://github.com/google/skywater-pdk) ⭐ 3,667 | 🐛 199 | 🌐 Python | 📅 2026-07-21 - Open Source Process SkyWater 130nm
+[google/skywater-pdk](https://github.com/google/skywater-pdk) ⭐ 3,666 | 🐛 199 | 🌐 Python | 📅 2026-07-21 - Open Source Process SkyWater 130nm
 
 ## Full Custom Design
 
@@ -89,7 +89,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [EDDRSoftware/oaFileParser](https://github.com/EDDRSoftware/oaFileParser) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2017-06-24 - oaFile Parser
 
-[scikit-rf/scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 926 | 🐛 60 | 🌐 Python | 📅 2026-08-13 - RF and Microwave Design in scikit
+[scikit-rf/scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 926 | 🐛 59 | 🌐 Python | 📅 2026-08-25 - RF and Microwave Design in scikit
 
 [mph-/lcapy](https://github.com/mph-/lcapy) ⭐ 301 | 🐛 39 | 🌐 Python | 📅 2026-08-16 - Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.
 
