@@ -27,7 +27,7 @@
             "archived": false,
             "id": 24369605,
             "language": "Python",
-            "last_commit": "2026-08-24T19:55:32Z",
+            "last_commit": "2026-08-25T15:26:26Z",
             "owner": "chipmuenk",
             "repo": "pyfda",
             "stars": 730
@@ -77,7 +77,7 @@
                 "last_commit": "2026-07-02T20:59:01Z",
                 "owner": "pymtl",
                 "repo": "pymtl3",
-                "stars": 464
+                "stars": 465
               }
             },
             {
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 245072514,
                 "language": "C++",
-                "last_commit": "2026-08-25T04:02:36Z",
+                "last_commit": "2026-08-25T23:32:41Z",
                 "owner": "llvm",
                 "repo": "circt",
                 "stars": 2226
@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 11172497,
                 "language": "Haskell",
-                "last_commit": "2026-08-24T18:41:31Z",
+                "last_commit": "2026-08-25T14:20:14Z",
                 "owner": "clash-lang",
                 "repo": "clash-compiler",
                 "stars": 1606
@@ -218,7 +218,7 @@
                 "last_commit": "2026-08-23T21:30:59Z",
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3606
+                "stars": 3607
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-25T06:17:32Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
-                "stars": 2867
+                "stars": 2868
               }
             }
           ],
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 7454197,
                 "language": "C++",
-                "last_commit": "2026-08-24T15:43:55Z",
+                "last_commit": "2026-08-25T15:20:35Z",
                 "owner": "YosysHQ",
                 "repo": "yosys",
                 "stars": 4705
@@ -314,7 +314,7 @@
                 "last_commit": "2026-08-05T07:27:17Z",
                 "owner": "YosysHQ",
                 "repo": "sby",
-                "stars": 541
+                "stars": 542
               }
             },
             {
@@ -370,7 +370,7 @@
             "last_commit": "2026-07-21T22:02:44Z",
             "owner": "google",
             "repo": "skywater-pdk",
-            "stars": 3666
+            "stars": 3668
           }
         }
       ],
@@ -391,7 +391,7 @@
             "last_commit": "2026-07-24T23:06:04Z",
             "owner": "heitzmann",
             "repo": "gdstk",
-            "stars": 495
+            "stars": 496
           }
         },
         {
@@ -553,7 +553,7 @@
             "archived": false,
             "id": 994840868,
             "language": "Python",
-            "last_commit": "2026-08-24T20:43:44Z",
+            "last_commit": "2026-08-25T22:09:44Z",
             "owner": "tub-msc",
             "repo": "ordec",
             "stars": 115
@@ -588,7 +588,7 @@
                 "last_commit": "2026-08-16T17:01:32Z",
                 "owner": "VLSIDA",
                 "repo": "OpenRAM",
-                "stars": 1118
+                "stars": 1119
               }
             },
             {
@@ -600,7 +600,7 @@
                 "archived": false,
                 "id": 81722454,
                 "language": "C++",
-                "last_commit": "2026-08-24T17:14:41Z",
+                "last_commit": "2026-08-25T21:00:58Z",
                 "owner": "KLayout",
                 "repo": "klayout",
                 "stars": 1182
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:37:12.581Z",
+    "last_updated": "2026-08-26T04:59:43.543Z",
     "original_repository": "TM90/awesome-hwd-tools",
     "original_repository_id": 158928501,
     "original_repository_sha": "2f111b92ba5fb68578aaefa1a876ba03fb5dd9b6",
