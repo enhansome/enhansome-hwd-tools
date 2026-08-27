@@ -27,7 +27,7 @@
             "archived": false,
             "id": 24369605,
             "language": "Python",
-            "last_commit": "2026-08-25T15:26:26Z",
+            "last_commit": "2026-08-26T08:11:06Z",
             "owner": "chipmuenk",
             "repo": "pyfda",
             "stars": 730
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 245072514,
                 "language": "C++",
-                "last_commit": "2026-08-25T23:32:41Z",
+                "last_commit": "2026-08-27T01:32:34Z",
                 "owner": "llvm",
                 "repo": "circt",
                 "stars": 2226
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 11172497,
                 "language": "Haskell",
-                "last_commit": "2026-08-25T14:20:14Z",
+                "last_commit": "2026-08-26T19:12:16Z",
                 "owner": "clash-lang",
                 "repo": "clash-compiler",
-                "stars": 1606
+                "stars": 1607
               }
             }
           ],
@@ -196,7 +196,7 @@
                 "last_commit": "2026-07-08T23:45:28Z",
                 "owner": "wavedrom",
                 "repo": "wavedrom",
-                "stars": 3473
+                "stars": 3475
               }
             }
           ],
@@ -218,7 +218,7 @@
                 "last_commit": "2026-08-23T21:30:59Z",
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3607
+                "stars": 3610
               }
             },
             {
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 46439446,
                 "language": "VHDL",
-                "last_commit": "2026-08-25T06:17:32Z",
+                "last_commit": "2026-08-27T10:21:41Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
                 "stars": 2868
@@ -252,10 +252,10 @@
                 "archived": false,
                 "id": 7454197,
                 "language": "C++",
-                "last_commit": "2026-08-25T15:20:35Z",
+                "last_commit": "2026-08-27T11:14:58Z",
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4705
+                "stars": 4706
               }
             }
           ],
@@ -277,7 +277,7 @@
                 "last_commit": "2026-08-19T04:17:13Z",
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenSTA",
-                "stars": 609
+                "stars": 610
               }
             },
             {
@@ -329,7 +329,7 @@
                 "last_commit": "2026-08-24T23:07:42Z",
                 "owner": "cocotb",
                 "repo": "cocotb",
-                "stars": 2483
+                "stars": 2484
               }
             }
           ],
@@ -370,7 +370,7 @@
             "last_commit": "2026-07-21T22:02:44Z",
             "owner": "google",
             "repo": "skywater-pdk",
-            "stars": 3668
+            "stars": 3673
           }
         }
       ],
@@ -478,7 +478,7 @@
             "archived": false,
             "id": 3218028,
             "language": "Python",
-            "last_commit": "2026-08-25T05:55:47Z",
+            "last_commit": "2026-08-26T11:21:39Z",
             "owner": "scikit-rf",
             "repo": "scikit-rf",
             "stars": 926
@@ -553,7 +553,7 @@
             "archived": false,
             "id": 994840868,
             "language": "Python",
-            "last_commit": "2026-08-25T22:09:44Z",
+            "last_commit": "2026-08-26T22:43:42Z",
             "owner": "tub-msc",
             "repo": "ordec",
             "stars": 115
@@ -588,7 +588,7 @@
                 "last_commit": "2026-08-16T17:01:32Z",
                 "owner": "VLSIDA",
                 "repo": "OpenRAM",
-                "stars": 1119
+                "stars": 1120
               }
             },
             {
@@ -600,7 +600,7 @@
                 "archived": false,
                 "id": 81722454,
                 "language": "C++",
-                "last_commit": "2026-08-25T21:00:58Z",
+                "last_commit": "2026-08-26T17:09:27Z",
                 "owner": "KLayout",
                 "repo": "klayout",
                 "stars": 1182
@@ -660,9 +660,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:59:43.543Z",
-    "original_repository": "TM90/awesome-hwd-tools",
-    "original_repository_id": 158928501,
+    "last_updated": "2026-08-27T11:46:00.089Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 158928501,
+      "language": null,
+      "last_commit": "2025-06-20T13:22:17Z",
+      "owner": "TM90",
+      "repo": "awesome-hwd-tools",
+      "stars": 91
+    },
     "original_repository_sha": "2f111b92ba5fb68578aaefa1a876ba03fb5dd9b6",
     "enhanced_repository": "enhansome/enhansome-hwd-tools",
     "enhanced_repository_description": null,
