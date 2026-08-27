@@ -27,7 +27,7 @@
             "archived": false,
             "id": 24369605,
             "language": "Python",
-            "last_commit": "2026-08-26T08:11:06Z",
+            "last_commit": "2026-08-27T11:56:59Z",
             "owner": "chipmuenk",
             "repo": "pyfda",
             "stars": 730
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 245072514,
                 "language": "C++",
-                "last_commit": "2026-08-27T01:32:34Z",
+                "last_commit": "2026-08-27T14:35:23Z",
                 "owner": "llvm",
                 "repo": "circt",
                 "stars": 2226
@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 11172497,
                 "language": "Haskell",
-                "last_commit": "2026-08-26T19:12:16Z",
+                "last_commit": "2026-08-27T15:16:50Z",
                 "owner": "clash-lang",
                 "repo": "clash-compiler",
                 "stars": 1607
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 7454197,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:14:58Z",
+                "last_commit": "2026-08-27T15:08:34Z",
                 "owner": "YosysHQ",
                 "repo": "yosys",
                 "stars": 4706
@@ -329,7 +329,7 @@
                 "last_commit": "2026-08-24T23:07:42Z",
                 "owner": "cocotb",
                 "repo": "cocotb",
-                "stars": 2484
+                "stars": 2485
               }
             }
           ],
@@ -370,7 +370,7 @@
             "last_commit": "2026-07-21T22:02:44Z",
             "owner": "google",
             "repo": "skywater-pdk",
-            "stars": 3673
+            "stars": 3674
           }
         }
       ],
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:00.089Z",
+    "last_updated": "2026-08-27T15:19:45.813Z",
     "original_repository_info": {
       "archived": false,
       "id": 158928501,
