@@ -4,9 +4,9 @@ A curated list of awesome open source hardware design tools with a focus on chip
 
 For electronic hardware tools without a focus on chip design see:
 
-<https://github.com/kitspace/awesome-electronics> ⭐ 8,071 | 🐛 32 | 📅 2026-01-05
+<https://github.com/kitspace/awesome-electronics> ⭐ 8,074 | 🐛 32 | 📅 2026-01-05
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,813 | 🐛 19 | 🌐 Python | 📅 2026-08-25.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,879 | 🐛 18 | 🌐 Python | 📅 2026-08-25.
 
 ## Semi Custom Design/ FPGAs
 
@@ -49,9 +49,9 @@ A much more detailed and specific list for hardware description languages can be
 
 ### Simulation
 
-[steveicarus/iverilog](https://github.com/steveicarus/iverilog) ⭐ 3,612 | 🐛 188 | 🌐 C++ | 📅 2026-08-23 - Icarus Verilog Simulator
+[steveicarus/iverilog](https://github.com/steveicarus/iverilog) ⭐ 3,611 | 🐛 188 | 🌐 C++ | 📅 2026-08-23 - Icarus Verilog Simulator
 
-[ghdl/ghdl](https://github.com/ghdl/ghdl) ⭐ 2,869 | 🐛 344 | 🌐 VHDL | 📅 2026-08-28 - VHDL Simulator
+[ghdl/ghdl](https://github.com/ghdl/ghdl) ⭐ 2,870 | 🐛 344 | 🌐 VHDL | 📅 2026-08-29 - VHDL Simulator
 
 ### Synthesis
 
@@ -107,7 +107,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [VLSIDA/OpenRAM](https://github.com/VLSIDA/OpenRAM) ⭐ 1,121 | 🐛 61 | 🌐 Python | 📅 2026-08-16 - open-source SRAM Compiler
 
-[KLayout/klayout](https://github.com/KLayout/klayout) ⭐ 1,182 | 🐛 217 | 🌐 C++ | 📅 2026-08-26 - scriptable Layout Viewer and Editor
+[KLayout/klayout](https://github.com/KLayout/klayout) ⭐ 1,181 | 🐛 217 | 🌐 C++ | 📅 2026-08-26 - scriptable Layout Viewer and Editor
 
 ### Simulation
 

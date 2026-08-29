@@ -362,7 +362,7 @@
                 "open_issues": 188,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3612,
+                "stars": 3611,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -379,11 +379,11 @@
                 "id": 46439446,
                 "language": "VHDL",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-28T16:36:16Z",
+                "last_commit": "2026-08-29T06:13:56Z",
                 "open_issues": 344,
                 "owner": "ghdl",
                 "repo": "ghdl",
-                "stars": 2869,
+                "stars": 2870,
                 "topics": [
                   "compiler",
                   "gcc",
@@ -1005,7 +1005,7 @@
                 "open_issues": 217,
                 "owner": "KLayout",
                 "repo": "klayout",
-                "stars": 1182,
+                "stars": 1181,
                 "topics": [
                   "eda",
                   "gds2",
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:40.031Z",
+    "last_updated": "2026-08-29T11:11:11.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source hardware design tools",
