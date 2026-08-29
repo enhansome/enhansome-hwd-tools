@@ -6,7 +6,7 @@ For electronic hardware tools without a focus on chip design see:
 
 <https://github.com/kitspace/awesome-electronics> ⭐ 8,071 | 🐛 32 | 📅 2026-01-05
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,704 | 🐛 18 | 🌐 Python | 📅 2026-08-25.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,813 | 🐛 19 | 🌐 Python | 📅 2026-08-25.
 
 ## Semi Custom Design/ FPGAs
 
@@ -33,7 +33,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,70
 
 [phanrahan/Magma](https://github.com/phanrahan/magma) ⭐ 265 | 🐛 195 | 🌐 Python | 📅 2024-10-19 - A Hardware Description Language embedded in Python
 
-[llvm/circt](https://github.com/llvm/circt) ⭐ 2,228 | 🐛 1,136 | 🌐 C++ | 📅 2026-08-27 - Intermediate representation for rtl (used by Chisel)
+[llvm/circt](https://github.com/llvm/circt) ⭐ 2,229 | 🐛 1,133 | 🌐 C++ | 📅 2026-08-29 - Intermediate representation for rtl (used by Chisel)
 
 [myhdl/MyHDL](https://github.com/myhdl/myhdl) ⭐ 1,127 | 🐛 131 | 🌐 Python | 📅 2025-04-10 - Python as a Hardware Description and Verification Language
 
@@ -45,21 +45,21 @@ A much more detailed and specific list for hardware description languages can be
 
 [gtkwave](http://gtkwave.sourceforge.net/) - GTK based waveform viewer
 
-[wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) ⭐ 3,475 | 🐛 204 | 🌐 JavaScript | 📅 2026-07-08 - Timing Diagrams in Java Script
+[wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) ⭐ 3,476 | 🐛 204 | 🌐 JavaScript | 📅 2026-07-08 - Timing Diagrams in Java Script
 
 ### Simulation
 
 [steveicarus/iverilog](https://github.com/steveicarus/iverilog) ⭐ 3,612 | 🐛 188 | 🌐 C++ | 📅 2026-08-23 - Icarus Verilog Simulator
 
-[ghdl/ghdl](https://github.com/ghdl/ghdl) ⭐ 2,869 | 🐛 343 | 🌐 VHDL | 📅 2026-08-28 - VHDL Simulator
+[ghdl/ghdl](https://github.com/ghdl/ghdl) ⭐ 2,869 | 🐛 344 | 🌐 VHDL | 📅 2026-08-28 - VHDL Simulator
 
 ### Synthesis
 
-[YosysHQ/yosys](https://github.com/YosysHQ/yosys) ⭐ 4,713 | 🐛 557 | 🌐 C++ | 📅 2026-08-27 - Synthesis Flow
+[YosysHQ/yosys](https://github.com/YosysHQ/yosys) ⭐ 4,715 | 🐛 557 | 🌐 C++ | 📅 2026-08-27 - Synthesis Flow
 
 ### Timing Analysis
 
-[abk-openroad/OpenSTA](https://github.com/abk-openroad/OpenSTA) ⭐ 610 | 🐛 34 | 🌐 Verilog | 📅 2026-08-27 - static timing analysis
+[abk-openroad/OpenSTA](https://github.com/abk-openroad/OpenSTA) ⭐ 610 | 🐛 33 | 🌐 Verilog | 📅 2026-08-28 - static timing analysis
 
 [OpenTimer/OpenTimer](https://github.com/OpenTimer/OpenTimer) ⭐ 714 | 🐛 63 | 🌐 Verilog | 📅 2025-12-26 - timing analysis tool for vlsi systems
 
@@ -67,7 +67,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [YosysHQ/SymbiYosys](https://github.com/YosysHQ/SymbiYosys) ⭐ 542 | 🐛 56 | 🌐 Python | 📅 2026-08-05 - formal verification flow and tool
 
-[cocotb/cocotb](https://github.com/cocotb/cocotb) ⭐ 2,486 | 🐛 410 | 🌐 Python | 📅 2026-08-24 - Creating Verilog/VHDL testbenches with python
+[cocotb/cocotb](https://github.com/cocotb/cocotb) ⭐ 2,486 | 🐛 413 | 🌐 Python | 📅 2026-08-24 - Creating Verilog/VHDL testbenches with python
 
 ## Open Source PDK
 
@@ -107,7 +107,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [VLSIDA/OpenRAM](https://github.com/VLSIDA/OpenRAM) ⭐ 1,121 | 🐛 61 | 🌐 Python | 📅 2026-08-16 - open-source SRAM Compiler
 
-[KLayout/klayout](https://github.com/KLayout/klayout) ⭐ 1,182 | 🐛 216 | 🌐 C++ | 📅 2026-08-26 - scriptable Layout Viewer and Editor
+[KLayout/klayout](https://github.com/KLayout/klayout) ⭐ 1,182 | 🐛 217 | 🌐 C++ | 📅 2026-08-26 - scriptable Layout Viewer and Editor
 
 ### Simulation
 
@@ -125,4 +125,4 @@ A much more detailed and specific list for hardware description languages can be
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
