@@ -198,7 +198,7 @@
                 "open_issues": 510,
                 "owner": "chipsalliance",
                 "repo": "chisel",
-                "stars": 4766,
+                "stars": 4767,
                 "topics": [
                   "chip-generator",
                   "chisel",
@@ -245,10 +245,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-29T01:34:57Z",
-                "open_issues": 1133,
+                "open_issues": 1134,
                 "owner": "llvm",
                 "repo": "circt",
-                "stars": 2229,
+                "stars": 2230,
                 "topics": [
                   "circt",
                   "llvm",
@@ -290,8 +290,8 @@
                 "id": 11172497,
                 "language": "Haskell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T08:37:16Z",
-                "open_issues": 427,
+                "last_commit": "2026-08-30T18:05:18Z",
+                "open_issues": 406,
                 "owner": "clash-lang",
                 "repo": "clash-compiler",
                 "stars": 1608,
@@ -362,7 +362,7 @@
                 "open_issues": 188,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3611,
+                "stars": 3612,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -417,11 +417,11 @@
                 "id": 7454197,
                 "language": "C++",
                 "license": "ISC",
-                "last_commit": "2026-08-27T17:10:41Z",
-                "open_issues": 558,
+                "last_commit": "2026-08-31T10:50:58Z",
+                "open_issues": 560,
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4716,
+                "stars": 4720,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -449,7 +449,7 @@
                 "open_issues": 33,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenSTA",
-                "stars": 611,
+                "stars": 613,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -531,11 +531,11 @@
                 "id": 10651005,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T13:09:12Z",
-                "open_issues": 410,
+                "last_commit": "2026-08-31T05:40:24Z",
+                "open_issues": 411,
                 "owner": "cocotb",
                 "repo": "cocotb",
-                "stars": 2486,
+                "stars": 2487,
                 "topics": [
                   "python",
                   "test",
@@ -928,7 +928,7 @@
             "id": 994840868,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-29T16:32:51Z",
+            "last_commit": "2026-08-31T10:19:45Z",
             "open_issues": 5,
             "owner": "tub-msc",
             "repo": "ordec",
@@ -976,7 +976,7 @@
                 "open_issues": 61,
                 "owner": "VLSIDA",
                 "repo": "OpenRAM",
-                "stars": 1121,
+                "stars": 1122,
                 "topics": [
                   "gds",
                   "magic",
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:59:31.239Z",
+    "last_updated": "2026-08-31T10:57:35.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source hardware design tools",
