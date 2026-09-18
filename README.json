@@ -47,7 +47,7 @@
             "id": 24369605,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-15T15:03:38Z",
+            "last_commit": "2026-09-17T20:02:13Z",
             "open_issues": 39,
             "owner": "chipmuenk",
             "repo": "pyfda",
@@ -198,7 +198,7 @@
                 "open_issues": 510,
                 "owner": "chipsalliance",
                 "repo": "chisel",
-                "stars": 4785,
+                "stars": 4787,
                 "topics": [
                   "chip-generator",
                   "chisel",
@@ -244,8 +244,8 @@
                 "id": 245072514,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T09:07:25Z",
-                "open_issues": 1157,
+                "last_commit": "2026-09-17T19:45:35Z",
+                "open_issues": 1155,
                 "owner": "llvm",
                 "repo": "circt",
                 "stars": 2240,
@@ -290,8 +290,8 @@
                 "id": 11172497,
                 "language": "Haskell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T09:26:38Z",
-                "open_issues": 406,
+                "last_commit": "2026-09-18T08:47:36Z",
+                "open_issues": 405,
                 "owner": "clash-lang",
                 "repo": "clash-compiler",
                 "stars": 1615,
@@ -330,7 +330,7 @@
                 "open_issues": 205,
                 "owner": "wavedrom",
                 "repo": "wavedrom",
-                "stars": 3494,
+                "stars": 3495,
                 "topics": [
                   "diagram",
                   "hacktoberfest",
@@ -358,11 +358,11 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-13T23:04:27Z",
-                "open_issues": 193,
+                "last_commit": "2026-09-18T08:08:42Z",
+                "open_issues": 186,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3639,
+                "stars": 3644,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -417,11 +417,11 @@
                 "id": 7454197,
                 "language": "C++",
                 "license": "ISC",
-                "last_commit": "2026-09-17T07:17:05Z",
-                "open_issues": 544,
+                "last_commit": "2026-09-18T06:44:09Z",
+                "open_issues": 547,
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4758,
+                "stars": 4760,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -449,7 +449,7 @@
                 "open_issues": 26,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenSTA",
-                "stars": 618,
+                "stars": 619,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -514,7 +514,7 @@
                 "open_issues": 56,
                 "owner": "YosysHQ",
                 "repo": "sby",
-                "stars": 547,
+                "stars": 548,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -532,10 +532,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-16T05:20:59Z",
-                "open_issues": 416,
+                "open_issues": 417,
                 "owner": "cocotb",
                 "repo": "cocotb",
-                "stars": 2505,
+                "stars": 2508,
                 "topics": [
                   "python",
                   "test",
@@ -794,11 +794,11 @@
             "id": 3218028,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-12T18:29:41Z",
-            "open_issues": 55,
+            "last_commit": "2026-09-17T18:52:09Z",
+            "open_issues": 53,
             "owner": "scikit-rf",
             "repo": "scikit-rf",
-            "stars": 939,
+            "stars": 940,
             "topics": [
               "electronics",
               "engineering",
@@ -873,7 +873,7 @@
             "open_issues": 0,
             "owner": "DegateCommunity",
             "repo": "Degate",
-            "stars": 292,
+            "stars": 293,
             "topics": [
               "chips",
               "cpp",
@@ -928,7 +928,7 @@
             "id": 994840868,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-16T21:14:08Z",
+            "last_commit": "2026-09-17T15:19:59Z",
             "open_issues": 6,
             "owner": "tub-msc",
             "repo": "ordec",
@@ -1002,10 +1002,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-16T21:37:14Z",
-                "open_issues": 222,
+                "open_issues": 223,
                 "owner": "KLayout",
                 "repo": "klayout",
-                "stars": 1199,
+                "stars": 1200,
                 "topics": [
                   "eda",
                   "gds2",
@@ -1038,7 +1038,7 @@
                 "open_issues": 205,
                 "owner": "PySpice-org",
                 "repo": "PySpice",
-                "stars": 866,
+                "stars": 865,
                 "topics": [
                   "circuit-simulation",
                   "ngspice",
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:31:05.903Z",
+    "last_updated": "2026-09-18T09:03:50.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source hardware design tools",
