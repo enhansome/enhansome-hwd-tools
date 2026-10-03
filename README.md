@@ -4,13 +4,13 @@ A curated list of awesome open source hardware design tools with a focus on chip
 
 For electronic hardware tools without a focus on chip design see:
 
-<https://github.com/kitspace/awesome-electronics> ⭐ 8,180 | 🐛 40 | 📅 2026-09-14
+<https://github.com/kitspace/awesome-electronics> ⭐ 8,181 | 🐛 40 | 📅 2026-09-14
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,781 | 🐛 21 | 🌐 Python | 📅 2026-10-02.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,818 | 🐛 21 | 🌐 Python | 📅 2026-10-02.
 
 ## Semi Custom Design/ FPGAs
 
-[Nic30/hdlConverter](https://github.com/Nic30/hdlConvertor) ⭐ 333 | 🐛 32 | 🌐 C++ | 📅 2025-06-30 - Python System-Verilog/VHDL Parser
+[Nic30/hdlConverter](https://github.com/Nic30/hdlConvertor) ⭐ 334 | 🐛 32 | 🌐 C++ | 📅 2025-06-30 - Python System-Verilog/VHDL Parser
 
 [christiklein/simpy](https://gitlab.com/team-simpy/simpy) - discrite event based simulation framework
 
@@ -29,7 +29,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,78
 
 ### Hardware Description Languages
 
-[freechipsproject/Chisel](https://github.com/freechipsproject/chisel3/) ⭐ 4,802 | 🐛 508 | 🌐 Scala | 📅 2026-10-02 - Hardware Description Language embedded in Scala developed at UC Berkeley
+[freechipsproject/Chisel](https://github.com/freechipsproject/chisel3/) ⭐ 4,803 | 🐛 508 | 🌐 Scala | 📅 2026-10-02 - Hardware Description Language embedded in Scala developed at UC Berkeley
 
 [phanrahan/Magma](https://github.com/phanrahan/magma) ⭐ 264 | 🐛 195 | 🌐 Python | 📅 2024-10-19 - A Hardware Description Language embedded in Python
 
@@ -37,7 +37,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,78
 
 [myhdl/MyHDL](https://github.com/myhdl/myhdl) ⭐ 1,131 | 🐛 132 | 🌐 Python | 📅 2026-09-14 - Python as a Hardware Description and Verification Language
 
-[clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler) ⭐ 1,619 | 🐛 406 | 🌐 Haskell | 📅 2026-10-02 - A Hardware Description Language written and inspired by Haskell
+[clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler) ⭐ 1,619 | 🐛 406 | 🌐 Haskell | 📅 2026-10-03 - A Hardware Description Language written and inspired by Haskell
 
 A much more detailed and specific list for hardware description languages can be found at [drom/awesome-hdl](https://github.com/drom/awesome-hdl) ⭐ 1,176 | 🐛 2 | 📅 2026-07-09.
 
@@ -55,7 +55,7 @@ A much more detailed and specific list for hardware description languages can be
 
 ### Synthesis
 
-[YosysHQ/yosys](https://github.com/YosysHQ/yosys) ⭐ 4,785 | 🐛 562 | 🌐 C++ | 📅 2026-10-02 - Synthesis Flow
+[YosysHQ/yosys](https://github.com/YosysHQ/yosys) ⭐ 4,785 | 🐛 563 | 🌐 C++ | 📅 2026-10-02 - Synthesis Flow
 
 ### Timing Analysis
 
@@ -89,7 +89,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [EDDRSoftware/oaFileParser](https://github.com/EDDRSoftware/oaFileParser) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2017-06-24 - oaFile Parser
 
-[scikit-rf/scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 943 | 🐛 52 | 🌐 Python | 📅 2026-09-19 - RF and Microwave Design in scikit
+[scikit-rf/scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 944 | 🐛 52 | 🌐 Python | 📅 2026-09-19 - RF and Microwave Design in scikit
 
 [mph-/lcapy](https://github.com/mph-/lcapy) ⭐ 303 | 🐛 40 | 🌐 Python | 📅 2026-08-16 - Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.
 
