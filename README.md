@@ -4,9 +4,9 @@ A curated list of awesome open source hardware design tools with a focus on chip
 
 For electronic hardware tools without a focus on chip design see:
 
-<https://github.com/kitspace/awesome-electronics> ⭐ 8,190 | 🐛 41 | 📅 2026-09-14
+<https://github.com/kitspace/awesome-electronics> ⭐ 8,191 | 🐛 41 | 📅 2026-09-14
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,513 | 🐛 19 | 🌐 Python | 📅 2026-10-02.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,516 | 🐛 19 | 🌐 Python | 📅 2026-10-02.
 
 ## Semi Custom Design/ FPGAs
 
@@ -29,7 +29,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,51
 
 ### Hardware Description Languages
 
-[freechipsproject/Chisel](https://github.com/freechipsproject/chisel3/) ⭐ 4,807 | 🐛 511 | 🌐 Scala | 📅 2026-10-05 - Hardware Description Language embedded in Scala developed at UC Berkeley
+[freechipsproject/Chisel](https://github.com/freechipsproject/chisel3/) ⭐ 4,807 | 🐛 511 | 🌐 Scala | 📅 2026-10-06 - Hardware Description Language embedded in Scala developed at UC Berkeley
 
 [phanrahan/Magma](https://github.com/phanrahan/magma) ⭐ 264 | 🐛 195 | 🌐 Python | 📅 2024-10-19 - A Hardware Description Language embedded in Python
 
