@@ -4,9 +4,9 @@ A curated list of awesome open source hardware design tools with a focus on chip
 
 For electronic hardware tools without a focus on chip design see:
 
-<https://github.com/kitspace/awesome-electronics> ⭐ 8,198 | 🐛 43 | 📅 2026-09-14
+<https://github.com/kitspace/awesome-electronics> ⭐ 8,200 | 🐛 43 | 📅 2026-09-14
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,007 | 🐛 20 | 🌐 Python | 📅 2026-10-07.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,018 | 🐛 20 | 🌐 Python | 📅 2026-10-07.
 
 ## Semi Custom Design/ FPGAs
 
@@ -29,17 +29,17 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,00
 
 ### Hardware Description Languages
 
-[freechipsproject/Chisel](https://github.com/freechipsproject/chisel3/) ⭐ 4,807 | 🐛 512 | 🌐 Scala | 📅 2026-10-06 - Hardware Description Language embedded in Scala developed at UC Berkeley
+[freechipsproject/Chisel](https://github.com/freechipsproject/chisel3/) ⭐ 4,807 | 🐛 512 | 🌐 Scala | 📅 2026-10-08 - Hardware Description Language embedded in Scala developed at UC Berkeley
 
 [phanrahan/Magma](https://github.com/phanrahan/magma) ⭐ 264 | 🐛 195 | 🌐 Python | 📅 2024-10-19 - A Hardware Description Language embedded in Python
 
-[llvm/circt](https://github.com/llvm/circt) ⭐ 2,255 | 🐛 1,174 | 🌐 C++ | 📅 2026-10-08 - Intermediate representation for rtl (used by Chisel)
+[llvm/circt](https://github.com/llvm/circt) ⭐ 2,255 | 🐛 1,174 | 🌐 C++ | 📅 2026-10-09 - Intermediate representation for rtl (used by Chisel)
 
 [myhdl/MyHDL](https://github.com/myhdl/myhdl) ⭐ 1,131 | 🐛 132 | 🌐 Python | 📅 2026-09-14 - Python as a Hardware Description and Verification Language
 
-[clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler) ⭐ 1,619 | 🐛 403 | 🌐 Haskell | 📅 2026-10-08 - A Hardware Description Language written and inspired by Haskell
+[clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler) ⭐ 1,619 | 🐛 402 | 🌐 Haskell | 📅 2026-10-09 - A Hardware Description Language written and inspired by Haskell
 
-A much more detailed and specific list for hardware description languages can be found at [drom/awesome-hdl](https://github.com/drom/awesome-hdl) ⭐ 1,180 | 🐛 2 | 📅 2026-07-09.
+A much more detailed and specific list for hardware description languages can be found at [drom/awesome-hdl](https://github.com/drom/awesome-hdl) ⭐ 1,181 | 🐛 2 | 📅 2026-07-09.
 
 ### Wave Viewers
 
@@ -49,13 +49,13 @@ A much more detailed and specific list for hardware description languages can be
 
 ### Simulation
 
-[steveicarus/iverilog](https://github.com/steveicarus/iverilog) ⭐ 3,667 | 🐛 182 | 🌐 C++ | 📅 2026-10-08 - Icarus Verilog Simulator
+[steveicarus/iverilog](https://github.com/steveicarus/iverilog) ⭐ 3,669 | 🐛 182 | 🌐 C++ | 📅 2026-10-09 - Icarus Verilog Simulator
 
 [ghdl/ghdl](https://github.com/ghdl/ghdl) ⭐ 2,901 | 🐛 338 | 🌐 VHDL | 📅 2026-10-06 - VHDL Simulator
 
 ### Synthesis
 
-[YosysHQ/yosys](https://github.com/YosysHQ/yosys) ⭐ 4,791 | 🐛 566 | 🌐 C++ | 📅 2026-10-08 - Synthesis Flow
+[YosysHQ/yosys](https://github.com/YosysHQ/yosys) ⭐ 4,792 | 🐛 569 | 🌐 C++ | 📅 2026-10-09 - Synthesis Flow
 
 ### Timing Analysis
 
@@ -67,17 +67,17 @@ A much more detailed and specific list for hardware description languages can be
 
 [YosysHQ/SymbiYosys](https://github.com/YosysHQ/SymbiYosys) ⭐ 555 | 🐛 58 | 🌐 Python | 📅 2026-09-19 - formal verification flow and tool
 
-[cocotb/cocotb](https://github.com/cocotb/cocotb) ⭐ 2,537 | 🐛 418 | 🌐 Python | 📅 2026-10-07 - Creating Verilog/VHDL testbenches with python
+[cocotb/cocotb](https://github.com/cocotb/cocotb) ⭐ 2,538 | 🐛 417 | 🌐 Python | 📅 2026-10-08 - Creating Verilog/VHDL testbenches with python
 
 ## Open Source PDK
 
 [leviathanch/libresiliconprocess](https://github.com/leviathanch/libresiliconprocess) ⭐ 31 | 🐛 0 | 🌐 TeX | 📅 2019-08-19 - A 1um open process specification
 
-[google/skywater-pdk](https://github.com/google/skywater-pdk) ⭐ 3,739 | 🐛 201 | 🌐 Python | 📅 2026-07-21 - Open Source Process SkyWater 130nm
+[google/skywater-pdk](https://github.com/google/skywater-pdk) ⭐ 3,742 | 🐛 201 | 🌐 Python | 📅 2026-07-21 - Open Source Process SkyWater 130nm
 
 ## Full Custom Design
 
-[heitzmann/gdsstk](https://github.com/heitzmann/gdstk) ⭐ 502 | 🐛 52 | 🌐 C++ | 📅 2026-07-24 - Gdstk (GDSII Tool Kit) is a C++/Python library for creation and manipulation of GDSII and OASIS files.
+[heitzmann/gdsstk](https://github.com/heitzmann/gdstk) ⭐ 503 | 🐛 54 | 🌐 C++ | 📅 2026-07-24 - Gdstk (GDSII Tool Kit) is a C++/Python library for creation and manipulation of GDSII and OASIS files.
 
 [unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) ⭐ 345 | 🐛 1 | 🌐 Python | 📅 2026-03-23 - A seamless python to Cadence Virtuoso Skill interface
 
@@ -89,7 +89,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [EDDRSoftware/oaFileParser](https://github.com/EDDRSoftware/oaFileParser) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2017-06-24 - oaFile Parser
 
-[scikit-rf/scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 946 | 🐛 50 | 🌐 Python | 📅 2026-10-07 - RF and Microwave Design in scikit
+[scikit-rf/scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 946 | 🐛 51 | 🌐 Python | 📅 2026-10-07 - RF and Microwave Design in scikit
 
 [mph-/lcapy](https://github.com/mph-/lcapy) ⭐ 305 | 🐛 40 | 🌐 Python | 📅 2026-08-16 - Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.
 
@@ -107,7 +107,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [VLSIDA/OpenRAM](https://github.com/VLSIDA/OpenRAM) ⭐ 1,151 | 🐛 68 | 🌐 Python | 📅 2026-10-02 - open-source SRAM Compiler
 
-[KLayout/klayout](https://github.com/KLayout/klayout) ⭐ 1,221 | 🐛 238 | 🌐 C++ | 📅 2026-10-04 - scriptable Layout Viewer and Editor
+[KLayout/klayout](https://github.com/KLayout/klayout) ⭐ 1,223 | 🐛 239 | 🌐 C++ | 📅 2026-10-04 - scriptable Layout Viewer and Editor
 
 ### Simulation
 
@@ -125,4 +125,4 @@ A much more detailed and specific list for hardware description languages can be
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
