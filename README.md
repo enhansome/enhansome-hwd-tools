@@ -4,9 +4,9 @@ A curated list of awesome open source hardware design tools with a focus on chip
 
 For electronic hardware tools without a focus on chip design see:
 
-<https://github.com/kitspace/awesome-electronics> ⭐ 8,236 | 🐛 43 | 📅 2026-10-12
+<https://github.com/kitspace/awesome-electronics> ⭐ 8,240 | 🐛 42 | 📅 2026-10-12
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 327,787 | 🐛 21 | 🌐 Python | 📅 2026-10-16.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 328,056 | 🐛 22 | 🌐 Python | 📅 2026-10-16.
 
 ## Semi Custom Design/ FPGAs
 
@@ -29,15 +29,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 327,78
 
 ### Hardware Description Languages
 
-[freechipsproject/Chisel](https://github.com/freechipsproject/chisel3/) ⭐ 4,809 | 🐛 520 | 🌐 Scala | 📅 2026-10-14 - Hardware Description Language embedded in Scala developed at UC Berkeley
+[freechipsproject/Chisel](https://github.com/freechipsproject/chisel3/) ⭐ 4,810 | 🐛 521 | 🌐 Scala | 📅 2026-10-16 - Hardware Description Language embedded in Scala developed at UC Berkeley
 
 [phanrahan/Magma](https://github.com/phanrahan/magma) ⭐ 264 | 🐛 195 | 🌐 Python | 📅 2024-10-19 - A Hardware Description Language embedded in Python
 
-[llvm/circt](https://github.com/llvm/circt) ⭐ 2,258 | 🐛 1,183 | 🌐 C++ | 📅 2026-10-16 - Intermediate representation for rtl (used by Chisel)
+[llvm/circt](https://github.com/llvm/circt) ⭐ 2,261 | 🐛 1,182 | 🌐 C++ | 📅 2026-10-17 - Intermediate representation for rtl (used by Chisel)
 
 [myhdl/MyHDL](https://github.com/myhdl/myhdl) ⭐ 1,131 | 🐛 132 | 🌐 Python | 📅 2026-09-14 - Python as a Hardware Description and Verification Language
 
-[clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler) ⭐ 1,620 | 🐛 394 | 🌐 Haskell | 📅 2026-10-16 - A Hardware Description Language written and inspired by Haskell
+[clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler) ⭐ 1,621 | 🐛 400 | 🌐 Haskell | 📅 2026-10-17 - A Hardware Description Language written and inspired by Haskell
 
 A much more detailed and specific list for hardware description languages can be found at [drom/awesome-hdl](https://github.com/drom/awesome-hdl) ⭐ 1,180 | 🐛 3 | 📅 2026-07-09.
 
@@ -45,21 +45,21 @@ A much more detailed and specific list for hardware description languages can be
 
 [gtkwave](http://gtkwave.sourceforge.net/) - GTK based waveform viewer
 
-[wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) ⭐ 3,509 | 🐛 206 | 🌐 JavaScript | 📅 2026-08-31 - Timing Diagrams in Java Script
+[wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) ⭐ 3,510 | 🐛 206 | 🌐 JavaScript | 📅 2026-08-31 - Timing Diagrams in Java Script
 
 ### Simulation
 
-[steveicarus/iverilog](https://github.com/steveicarus/iverilog) ⭐ 3,684 | 🐛 210 | 🌐 C++ | 📅 2026-10-16 - Icarus Verilog Simulator
+[steveicarus/iverilog](https://github.com/steveicarus/iverilog) ⭐ 3,683 | 🐛 208 | 🌐 C++ | 📅 2026-10-16 - Icarus Verilog Simulator
 
 [ghdl/ghdl](https://github.com/ghdl/ghdl) ⭐ 2,908 | 🐛 338 | 🌐 VHDL | 📅 2026-10-16 - VHDL Simulator
 
 ### Synthesis
 
-[YosysHQ/yosys](https://github.com/YosysHQ/yosys) ⭐ 4,815 | 🐛 566 | 🌐 C++ | 📅 2026-10-16 - Synthesis Flow
+[YosysHQ/yosys](https://github.com/YosysHQ/yosys) ⭐ 4,817 | 🐛 565 | 🌐 C++ | 📅 2026-10-16 - Synthesis Flow
 
 ### Timing Analysis
 
-[abk-openroad/OpenSTA](https://github.com/abk-openroad/OpenSTA) ⭐ 628 | 🐛 13 | 🌐 Verilog | 📅 2026-10-15 - static timing analysis
+[abk-openroad/OpenSTA](https://github.com/abk-openroad/OpenSTA) ⭐ 629 | 🐛 11 | 🌐 Verilog | 📅 2026-10-16 - static timing analysis
 
 [OpenTimer/OpenTimer](https://github.com/OpenTimer/OpenTimer) ⭐ 720 | 🐛 65 | 🌐 Verilog | 📅 2025-12-26 - timing analysis tool for vlsi systems
 
@@ -77,9 +77,9 @@ A much more detailed and specific list for hardware description languages can be
 
 ## Full Custom Design
 
-[heitzmann/gdsstk](https://github.com/heitzmann/gdstk) ⭐ 503 | 🐛 53 | 🌐 C++ | 📅 2026-10-15 - Gdstk (GDSII Tool Kit) is a C++/Python library for creation and manipulation of GDSII and OASIS files.
+[heitzmann/gdsstk](https://github.com/heitzmann/gdstk) ⭐ 504 | 🐛 51 | 🌐 C++ | 📅 2026-10-16 - Gdstk (GDSII Tool Kit) is a C++/Python library for creation and manipulation of GDSII and OASIS files.
 
-[unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) ⭐ 350 | 🐛 1 | 🌐 Python | 📅 2026-03-23 - A seamless python to Cadence Virtuoso Skill interface
+[unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) ⭐ 351 | 🐛 1 | 🌐 Python | 📅 2026-03-23 - A seamless python to Cadence Virtuoso Skill interface
 
 [electronics-and-drives/SPAM](https://github.com/electronics-and-drives/SPAM) ⭐ 8 | 🐛 0 | 📅 2019-04-17 - SPAM is a package management system for Cadence SKILL
 
@@ -89,13 +89,13 @@ A much more detailed and specific list for hardware description languages can be
 
 [EDDRSoftware/oaFileParser](https://github.com/EDDRSoftware/oaFileParser) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2017-06-24 - oaFile Parser
 
-[scikit-rf/scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 949 | 🐛 53 | 🌐 Python | 📅 2026-10-11 - RF and Microwave Design in scikit
+[scikit-rf/scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 949 | 🐛 55 | 🌐 Python | 📅 2026-10-11 - RF and Microwave Design in scikit
 
 [mph-/lcapy](https://github.com/mph-/lcapy) ⭐ 305 | 🐛 40 | 🌐 Python | 📅 2026-08-16 - Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.
 
 [YosysHQ/PADRING](https://github.com/YosysHQ/padring) ⭐ 27 | 🐛 3 | 🌐 C++ | 📅 2023-05-17 - A padring generator for asics
 
-[DegateCommunity/Degate](https://github.com/DegateCommunity/Degate) ⭐ 294 | 🐛 0 | 🌐 C++ | 📅 2024-11-25 - Tool for VLSI reverse engineering
+[DegateCommunity/Degate](https://github.com/DegateCommunity/Degate) ⭐ 295 | 🐛 0 | 🌐 C++ | 📅 2024-11-25 - Tool for VLSI reverse engineering
 
 [cap1tan/wafermap](https://github.com/cap1tan/wafermap) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2025-12-08 - A python package to plot maps of semiconductor wafers
 
@@ -105,9 +105,9 @@ A much more detailed and specific list for hardware description languages can be
 
 [ucb-art/BAG\_framework](https://github.com/ucb-art/BAG_framework) ⭐ 172 | 🐛 12 | 🌐 Python | 📅 2022-12-04 - Berkeley Analog Generator
 
-[VLSIDA/OpenRAM](https://github.com/VLSIDA/OpenRAM) ⭐ 1,156 | 🐛 44 | 🌐 Python | 📅 2026-10-15 - open-source SRAM Compiler
+[VLSIDA/OpenRAM](https://github.com/VLSIDA/OpenRAM) ⭐ 1,156 | 🐛 28 | 🌐 Python | 📅 2026-10-16 - open-source SRAM Compiler
 
-[KLayout/klayout](https://github.com/KLayout/klayout) ⭐ 1,233 | 🐛 253 | 🌐 C++ | 📅 2026-10-13 - scriptable Layout Viewer and Editor
+[KLayout/klayout](https://github.com/KLayout/klayout) ⭐ 1,234 | 🐛 254 | 🌐 C++ | 📅 2026-10-16 - scriptable Layout Viewer and Editor
 
 ### Simulation
 
@@ -125,4 +125,4 @@ A much more detailed and specific list for hardware description languages can be
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
