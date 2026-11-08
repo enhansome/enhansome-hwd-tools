@@ -195,10 +195,10 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T11:12:14Z",
-                "open_issues": 511,
+                "open_issues": 512,
                 "owner": "chipsalliance",
                 "repo": "chisel",
-                "stars": 4829,
+                "stars": 4828,
                 "topics": [
                   "chip-generator",
                   "chisel",
@@ -244,8 +244,8 @@
                 "id": 245072514,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T09:06:35Z",
-                "open_issues": 1224,
+                "last_commit": "2026-11-07T17:12:44Z",
+                "open_issues": 1226,
                 "owner": "llvm",
                 "repo": "circt",
                 "stars": 2270,
@@ -290,11 +290,11 @@
                 "id": 11172497,
                 "language": "Haskell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T10:39:58Z",
+                "last_commit": "2026-11-07T15:08:03Z",
                 "open_issues": 398,
                 "owner": "clash-lang",
                 "repo": "clash-compiler",
-                "stars": 1626,
+                "stars": 1627,
                 "topics": [
                   "asic",
                   "fpga",
@@ -358,11 +358,11 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-07T09:53:24Z",
-                "open_issues": 200,
+                "last_commit": "2026-11-08T09:15:28Z",
+                "open_issues": 204,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3722,
+                "stars": 3723,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -379,8 +379,8 @@
                 "id": 46439446,
                 "language": "VHDL",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-07T07:39:50Z",
-                "open_issues": 338,
+                "last_commit": "2026-11-08T09:27:57Z",
+                "open_issues": 335,
                 "owner": "ghdl",
                 "repo": "ghdl",
                 "stars": 2918,
@@ -418,10 +418,10 @@
                 "language": "C++",
                 "license": "ISC",
                 "last_commit": "2026-11-06T17:15:41Z",
-                "open_issues": 584,
+                "open_issues": 585,
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4874,
+                "stars": 4877,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -449,7 +449,7 @@
                 "open_issues": 21,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenSTA",
-                "stars": 641,
+                "stars": 643,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -514,7 +514,7 @@
                 "open_issues": 60,
                 "owner": "YosysHQ",
                 "repo": "sby",
-                "stars": 565,
+                "stars": 566,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -535,7 +535,7 @@
                 "open_issues": 397,
                 "owner": "cocotb",
                 "repo": "cocotb",
-                "stars": 2568,
+                "stars": 2569,
                 "topics": [
                   "python",
                   "test",
@@ -595,7 +595,7 @@
             "open_issues": 202,
             "owner": "google",
             "repo": "skywater-pdk",
-            "stars": 3785,
+            "stars": 3787,
             "topics": [
               "asic",
               "asic-library",
@@ -1002,10 +1002,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-05T21:49:26Z",
-                "open_issues": 220,
+                "open_issues": 221,
                 "owner": "KLayout",
                 "repo": "klayout",
-                "stars": 1255,
+                "stars": 1256,
                 "topics": [
                   "eda",
                   "gds2",
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:10:44.740Z",
+    "last_updated": "2026-11-08T11:22:37.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source hardware design tools",
