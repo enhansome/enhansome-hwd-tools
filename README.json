@@ -198,7 +198,7 @@
                 "open_issues": 509,
                 "owner": "chipsalliance",
                 "repo": "chisel",
-                "stars": 4834,
+                "stars": 4835,
                 "topics": [
                   "chip-generator",
                   "chisel",
@@ -244,11 +244,11 @@
                 "id": 245072514,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T01:05:16Z",
+                "last_commit": "2026-11-15T03:45:07Z",
                 "open_issues": 1239,
                 "owner": "llvm",
                 "repo": "circt",
-                "stars": 2272,
+                "stars": 2273,
                 "topics": [
                   "circt",
                   "llvm",
@@ -330,7 +330,7 @@
                 "open_issues": 209,
                 "owner": "wavedrom",
                 "repo": "wavedrom",
-                "stars": 3521,
+                "stars": 3522,
                 "topics": [
                   "diagram",
                   "hacktoberfest",
@@ -358,11 +358,11 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-14T11:10:21Z",
-                "open_issues": 204,
+                "last_commit": "2026-11-15T07:43:16Z",
+                "open_issues": 209,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3740,
+                "stars": 3742,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -379,8 +379,8 @@
                 "id": 46439446,
                 "language": "VHDL",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-14T11:09:23Z",
-                "open_issues": 337,
+                "last_commit": "2026-11-15T10:52:21Z",
+                "open_issues": 334,
                 "owner": "ghdl",
                 "repo": "ghdl",
                 "stars": 2925,
@@ -417,11 +417,11 @@
                 "id": 7454197,
                 "language": "C++",
                 "license": "ISC",
-                "last_commit": "2026-11-14T10:27:16Z",
-                "open_issues": 591,
+                "last_commit": "2026-11-14T15:09:28Z",
+                "open_issues": 597,
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4888,
+                "stars": 4889,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -511,7 +511,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-10T10:33:40Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "YosysHQ",
                 "repo": "sby",
                 "stars": 570,
@@ -535,7 +535,7 @@
                 "open_issues": 401,
                 "owner": "cocotb",
                 "repo": "cocotb",
-                "stars": 2578,
+                "stars": 2579,
                 "topics": [
                   "python",
                   "test",
@@ -595,7 +595,7 @@
             "open_issues": 202,
             "owner": "google",
             "repo": "skywater-pdk",
-            "stars": 3796,
+            "stars": 3797,
             "topics": [
               "asic",
               "asic-library",
@@ -1001,11 +1001,11 @@
                 "id": 81722454,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T23:02:11Z",
-                "open_issues": 232,
+                "last_commit": "2026-11-14T23:46:02Z",
+                "open_issues": 230,
                 "owner": "KLayout",
                 "repo": "klayout",
-                "stars": 1265,
+                "stars": 1266,
                 "topics": [
                   "eda",
                   "gds2",
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:36:38.979Z",
+    "last_updated": "2026-11-15T12:01:59.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source hardware design tools",
