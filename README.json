@@ -194,8 +194,8 @@
                 "id": 34695562,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T11:11:53Z",
-                "open_issues": 511,
+                "last_commit": "2026-11-21T11:12:22Z",
+                "open_issues": 512,
                 "owner": "chipsalliance",
                 "repo": "chisel",
                 "stars": 4841,
@@ -244,8 +244,8 @@
                 "id": 245072514,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T11:56:55Z",
-                "open_issues": 1253,
+                "last_commit": "2026-11-21T01:13:36Z",
+                "open_issues": 1256,
                 "owner": "llvm",
                 "repo": "circt",
                 "stars": 2276,
@@ -294,7 +294,7 @@
                 "open_issues": 398,
                 "owner": "clash-lang",
                 "repo": "clash-compiler",
-                "stars": 1633,
+                "stars": 1635,
                 "topics": [
                   "asic",
                   "fpga",
@@ -358,11 +358,11 @@
                 "id": 16267,
                 "language": "Verilog",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-20T12:22:09Z",
-                "open_issues": 203,
+                "last_commit": "2026-11-20T17:34:28Z",
+                "open_issues": 221,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3747,
+                "stars": 3750,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -380,7 +380,7 @@
                 "language": "VHDL",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-19T00:55:56Z",
-                "open_issues": 333,
+                "open_issues": 334,
                 "owner": "ghdl",
                 "repo": "ghdl",
                 "stars": 2931,
@@ -417,11 +417,11 @@
                 "id": 7454197,
                 "language": "C++",
                 "license": "ISC",
-                "last_commit": "2026-11-20T09:46:55Z",
+                "last_commit": "2026-11-20T21:09:12Z",
                 "open_issues": 595,
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4911,
+                "stars": 4912,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -445,11 +445,11 @@
                 "id": 150762409,
                 "language": "Verilog",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T17:52:49Z",
+                "last_commit": "2026-11-20T16:20:49Z",
                 "open_issues": 28,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenSTA",
-                "stars": 649,
+                "stars": 650,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -595,7 +595,7 @@
             "open_issues": 202,
             "owner": "google",
             "repo": "skywater-pdk",
-            "stars": 3805,
+            "stars": 3808,
             "topics": [
               "asic",
               "asic-library",
@@ -798,7 +798,7 @@
             "open_issues": 59,
             "owner": "scikit-rf",
             "repo": "scikit-rf",
-            "stars": 969,
+            "stars": 968,
             "topics": [
               "electronics",
               "engineering",
@@ -1001,11 +1001,11 @@
                 "id": 81722454,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T22:35:10Z",
+                "last_commit": "2026-11-21T10:49:26Z",
                 "open_issues": 233,
                 "owner": "KLayout",
                 "repo": "klayout",
-                "stars": 1272,
+                "stars": 1274,
                 "topics": [
                   "eda",
                   "gds2",
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T13:11:26.275Z",
+    "last_updated": "2026-11-21T12:48:06.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source hardware design tools",
@@ -1102,7 +1102,7 @@
       "open_issues": 1,
       "owner": "TM90",
       "repo": "awesome-hwd-tools",
-      "stars": 92,
+      "stars": 91,
       "topics": [
         "asic",
         "awesome-list",
