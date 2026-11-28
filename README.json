@@ -245,10 +245,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-27T12:42:34Z",
-                "open_issues": 1257,
+                "open_issues": 1259,
                 "owner": "llvm",
                 "repo": "circt",
-                "stars": 2279,
+                "stars": 2281,
                 "topics": [
                   "circt",
                   "llvm",
@@ -359,10 +359,10 @@
                 "language": "Verilog",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-25T09:05:15Z",
-                "open_issues": 230,
+                "open_issues": 233,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3760,
+                "stars": 3762,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -417,11 +417,11 @@
                 "id": 7454197,
                 "language": "C++",
                 "license": "ISC",
-                "last_commit": "2026-11-27T13:38:00Z",
-                "open_issues": 600,
+                "last_commit": "2026-11-28T02:18:15Z",
+                "open_issues": 601,
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4928,
+                "stars": 4929,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:43:09.912Z"
@@ -531,8 +531,8 @@
                 "id": 10651005,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-27T03:38:06Z",
-                "open_issues": 398,
+                "last_commit": "2026-11-27T23:17:56Z",
+                "open_issues": 399,
                 "owner": "cocotb",
                 "repo": "cocotb",
                 "stars": 2590,
@@ -928,7 +928,7 @@
             "id": 994840868,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-26T12:47:11Z",
+            "last_commit": "2026-11-27T20:01:21Z",
             "open_issues": 7,
             "owner": "tub-msc",
             "repo": "ordec",
@@ -976,7 +976,7 @@
                 "open_issues": 29,
                 "owner": "VLSIDA",
                 "repo": "OpenRAM",
-                "stars": 1183,
+                "stars": 1184,
                 "topics": [
                   "gds",
                   "magic",
@@ -1001,11 +1001,11 @@
                 "id": 81722454,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-26T22:45:54Z",
+                "last_commit": "2026-11-27T17:45:59Z",
                 "open_issues": 225,
                 "owner": "KLayout",
                 "repo": "klayout",
-                "stars": 1280,
+                "stars": 1281,
                 "topics": [
                   "eda",
                   "gds2",
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T13:59:54.402Z",
+    "last_updated": "2026-11-28T13:15:29.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source hardware design tools",
